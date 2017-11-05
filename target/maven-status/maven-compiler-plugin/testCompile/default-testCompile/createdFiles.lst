@@ -1,0 +1,6 @@
+com/test/Configurations/Hooks.class
+com/test/screens/SearchScreen.class
+com/test/Configurations/FlickrAPIProcessor.class
+com/test/screens/Sample.class
+com/test/stepdefinitions/SearchSteps.class
+com/test/Runners/RunCukesTest.class
